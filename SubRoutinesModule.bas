@@ -364,7 +364,7 @@ Sub ValidateBlankFormRanges(CommaSeparatedStringOfRanges As String)
         
     Next
     
-    'Example of how to call this Sub: 'Call ValidateForm("CsrName,CallersName,AccountName,AccountNumber,AccessionNumberReqNumber," & _
+    'Example of how to call this Sub: 'Call ValidateBlankFormRanges("CsrName,CallersName,AccountName,AccountNumber,AccessionNumberReqNumber," & _
                                                          "PatientsName,PatientsDob,Laboratory,TestName1,TestCode1")
 
 End Sub
